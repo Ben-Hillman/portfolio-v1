@@ -201,7 +201,7 @@ body[class="dark__bg"] .active {
 #headshot-picture {
     position: absolute;
     top: -10px;
-    width: 200%;
+    width: 100%;
     aspect-ratio: 1;
 }
 
